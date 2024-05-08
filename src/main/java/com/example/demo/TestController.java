@@ -15,6 +15,7 @@ public class TestController {
         int b=30;
         int d=10;
         int e=10;
-        return "just testing  " +(a+b+d+e);
+        int f=90;
+        return "just testing  " +(a+b+d+e+f);
     }
 }
